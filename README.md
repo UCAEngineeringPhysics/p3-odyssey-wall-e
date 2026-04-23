@@ -8,8 +8,10 @@
 <img width="3024" height="4032" alt="IMG_3120" src="https://github.com/user-attachments/assets/b98efdfe-6c10-49ee-aed5-e274383b4241" />
 Long arm connection to homer base, symetrical to the one on the other side.
 
+
 <img width="3024" height="4032" alt="IMG_3121" src="https://github.com/user-attachments/assets/e0d0d23b-1005-4928-a042-d93a35e9225c" />
 Short arm connections to homer base, screws go through the arms and the base into the caster wheel spots. This can allow for screws to be multipurpose, connecting both the trailer and the caster wheel to the base.
+
 
 <img width="3024" height="4032" alt="IMG_3122" src="https://github.com/user-attachments/assets/07a1d050-3c7e-40a0-9136-2b9bfd05a08a" />
 The coffee cup holder, connected to each arm to hold the coffee cup behind the bot.
