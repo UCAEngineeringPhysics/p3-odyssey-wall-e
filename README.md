@@ -3,7 +3,8 @@
 
 ## Coffee Transportation Solution
 
-<img width="1024" height="724" alt="1776883304872-ca7d8dab-000a-4f77-b514-ff2654b51907_1" src="https://github.com/user-attachments/assets/b0f61539-0ec4-4e29-bcf2-b9578f5d528b" />
+[CoffeeTrailer-TechDraw2.pdf](https://github.com/user-attachments/files/27218794/CoffeeTrailer-TechDraw2.pdf)
+
 
 <img width="3024" height="4032" alt="IMG_3120" src="https://github.com/user-attachments/assets/b98efdfe-6c10-49ee-aed5-e274383b4241" />
 Long arm connection to homer base, symetrical to the one on the other side.
