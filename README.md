@@ -3,7 +3,8 @@
 
 ## Coffee Transportation Solution
 
-[CoffeeTrailer-TechDraw2.pdf](https://github.com/user-attachments/files/27218794/CoffeeTrailer-TechDraw2.pdf)
+<img width="2339" height="1653" alt="CoffeeTrailer-TechDraw2-1" src="https://github.com/user-attachments/assets/138a6e5c-edc6-4769-a6c3-0754dac229ae" />
+
 
 
 <img width="3024" height="4032" alt="IMG_3120" src="https://github.com/user-attachments/assets/b98efdfe-6c10-49ee-aed5-e274383b4241" />
