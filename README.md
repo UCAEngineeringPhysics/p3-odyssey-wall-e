@@ -53,11 +53,16 @@ source ~/homer_ws/install/local_setup.bash
 echo "source ~/homer_ws/install/local_setup.bash" >> ~/.bashrc
 ```
 
+### Setting up server:
+
+Install chrony:
+```
+sudo apt update
+sudo apt install chrony
+```
 
 
-
-Setting up server:
-
+Building workspace:
 ```
 mkdir -p ~/homer_ws/src
 cd ~/homer_ws/src
