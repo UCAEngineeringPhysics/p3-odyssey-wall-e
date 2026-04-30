@@ -51,7 +51,7 @@ def generate_launch_description():
         arguments=['-d', LaunchConfiguration('rvizconfig')],
     )
 
-    create_goal = Node(package="p3", executable="create_goal")
+    create_goal = Node(package="p3", executable="action_server")
 
     return LaunchDescription(
         [
