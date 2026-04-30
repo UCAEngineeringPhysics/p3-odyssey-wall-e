@@ -35,10 +35,11 @@ Once the trailer is attached, the caster wheel can be attached to the extruded p
 
 ### Setting up the Raspberry Pi:
 
-Install slam_toolbox and Nav2:
+Install Dependencies:
 ```
 sudo apt update
 sudo apt install ros-$ROS_DISTRO-slam-toolbox ros-$ROS_DISTRO-navigation2 ros-$ROS_DISTRO-nav2-bringup
+sudo apt install ros-$ROS_DISTRO-tf-transformations
 ```
 
 Building workspace:
@@ -51,6 +52,11 @@ rosdep install -y --from-paths src --ignore-src --rosdistro $ROS_DISTRO
 colcon build
 source ~/homer_ws/install/local_setup.bash
 echo "source ~/homer_ws/install/local_setup.bash" >> ~/.bashrc
+```
+
+Run Launch File:
+```
+ros2 launch homer_bringup homer_launch.py
 ```
 
 ### Setting up server:
@@ -71,6 +77,11 @@ cd ~/homer_ws
 colcon build
 echo "source ~/homer_ws/install/local_setup.bash" >> ~/.bashrc
 source ~/.bashrc
+```
+
+Run Launch File:
+```
+ros2 launch p3 auto.navigation.py
 ```
 
 
