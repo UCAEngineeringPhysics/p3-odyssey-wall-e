@@ -38,6 +38,7 @@ setup(
     },
     entry_points={
         'console_scripts': [
+            'create_goal = p3.create_goal:main',
         ],
     },
 )
