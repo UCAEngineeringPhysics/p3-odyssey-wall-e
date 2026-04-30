@@ -33,8 +33,15 @@ Once the trailer is attached, the caster wheel can be attached to the extruded p
 
 ## Software Usage Instructions
 
-Setting up the Raspberry Pi:
+### Setting up the Raspberry Pi:
 
+Install slam_toolbox and Nav2:
+```
+sudo apt update
+sudo apt install ros-$ROS_DISTRO-slam-toolbox ros-$ROS_DISTRO-navigation2 ros-$ROS_DISTRO-nav2-bringup
+```
+
+Building workspace:
 ```
 mkdir -p ~/homer_ws/src
 cd ~/homer_ws/src
@@ -45,6 +52,9 @@ colcon build
 source ~/homer_ws/install/local_setup.bash
 echo "source ~/homer_ws/install/local_setup.bash" >> ~/.bashrc
 ```
+
+
+
 
 Setting up server:
 
