@@ -61,10 +61,10 @@ ros2 launch homer_bringup homer_launch.py
 
 ### Setting up server:
 
-Install chrony:
+Install Dependencies:
 ```
 sudo apt update
-sudo apt install chrony
+sudo apt install ros-$ROS_DISTRO-slam-toolbox ros-$ROS_DISTRO-navigation2 ros-$ROS_DISTRO-nav2-bringup
 ```
 
 
