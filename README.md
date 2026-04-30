@@ -57,3 +57,11 @@ colcon build
 echo "source ~/homer_ws/install/local_setup.bash" >> ~/.bashrc
 source ~/.bashrc
 ```
+
+
+## Homer Derviations
+
+The Pico in this project uses the C++ HAL dervied, Ros2 to Pico Drivetrain that can be found here: https://github.com/Melfely/PicoRos2Drivetrain.git
+
+The Interface uses https://github.com/linzhangUCA/homer_bringup.git which is the standard homer build, but uses the PR#1 version, that has not been merged yet,
+which has zero effect on the live drivetrain capabalities, which mostly assists in development, since the Pico board being reflashed does not crash the interface. 
